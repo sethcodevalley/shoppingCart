@@ -1,0 +1,22 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'shoppingCart/master'.
+#
+# Changes to be committed:
+#	deleted:    target/classes/META-INF/MANIFEST.MF
+#	deleted:    target/classes/META-INF/maven/shoppingcart/1.0/pom.properties
+#	deleted:    target/classes/META-INF/maven/shoppingcart/1.0/pom.xml
+#	deleted:    target/classes/shoppingcart/Buy1Get1ShoppingOffer.class
+#	deleted:    target/classes/shoppingcart/Buy3For2ShoppingOffer.class
+#	deleted:    target/classes/shoppingcart/CheckoutSystemWithOffer.class
+#	deleted:    target/classes/shoppingcart/CheckoutSystemWithOutOffer.class
+#	deleted:    target/classes/shoppingcart/IShoppingOffers.class
+#	deleted:    target/classes/shoppingcart/ShoppingOfferTypeFactory.class
+#	deleted:    target/test-classes/shoppingcart/Buy1Get1OfferTest.class
+#	deleted:    target/test-classes/shoppingcart/Buy3For2OfferTest.class
+#	deleted:    target/test-classes/shoppingcart/CheckOutWithOfferTest.class
+#	deleted:    target/test-classes/shoppingcart/CheckOutWithOutOfferTest.class
+#
+

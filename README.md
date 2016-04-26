@@ -1,7 +1,8 @@
 Shopping Cart
-Java 7/8 application
-Installation required
 
+Java 7/8 application
+
+Installation required
 Java 7/8
 
 Step 1: Shopping cart
